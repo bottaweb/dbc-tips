@@ -1,9 +1,0 @@
-{
-  "name": "desserts-by-clement-tips",
-  "private": true,
-  "version": "1.0.0",
-  "description": "Private tip-sharing calculator for Desserts by Clément",
-  "dependencies": {
-    "@netlify/blobs": "^11.0.2"
-  }
-}
